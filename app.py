@@ -1,7 +1,8 @@
 import streamlit as st
 import pickle
 import numpy as np
-
+import pandas as pd
+pd.__version__ = "2.0.3"
 # import the model
 pipe = pickle.load(open('pipe.pkl','rb'))
 df = pickle.load(open('df.pkl','rb'))
