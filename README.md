@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/laptop-price-prediction.git
+   git clone https://github.com/kanishkmunot/Laptop_Price.git
    ```
 
 2. **Install Project Dependencies**:
