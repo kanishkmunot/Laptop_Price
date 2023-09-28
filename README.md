@@ -22,14 +22,24 @@ To run this project locally, follow these steps:
    ```shell
    git clone https://github.com/kanishkmunot/Laptop_Price.git
    ```
+   ## **Navigate to Project Directory**
 
-2. **Install Project Dependencies**:
+Navigate to the project directory:
+
+```shell
+cd Laptop_Price
+```
+
+## **Installation**
+
+To run this project locally, follow these steps:
+
+ **Install Project Dependencies**:
 
    ```shell
    pip install -r requirements.txt
    ```
-
-3. **Run the Streamlit App**:
+ **Run the Streamlit App**:
 
    ```shell
    streamlit run app.py
