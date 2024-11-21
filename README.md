@@ -4,6 +4,10 @@
 
 This project is a machine learning model for predicting the prices of laptops based on various features and specifications. It provides a simple user interface to input the laptop's specifications and get an estimated price.
 
+## **StreamLit Application Link**
+
+This project is deployed on Streamlit Application, which can be accessed from [here](https://kanishkmunot-laptop-price-app-pwspor.streamlit.app/).
+
 ## **Table of Contents**
 
 - [**Installation**](#installation)
